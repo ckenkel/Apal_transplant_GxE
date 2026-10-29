@@ -16,7 +16,7 @@ Files in this repository
 3. Phyloseq_apalm16S.R: Annotated R script for statistical analyses of microbial diversity. Follows aspects of the phyloseq and ancombc tutorials available at https://joey711.github.io/phyloseq/ and https://bioconductor.org/packages/release/bioc/vignettes/ANCOMBC/inst/doc/ANCOMBC2.html 
 	- Input Files
 	  - Apal_seqtabNochim_9May24.rds
-    - Apal_taxonomy_9May24.rds
+      - Apal_taxonomy_9May24.rds
 	  - sampledata.csv: A csv file containing sample IDs and associated metadata (e.g. site, genet ID, etc)
     
 4. ApalmMorphologicalPlasticity.R: Annotated R script for analyses of survival and growth
