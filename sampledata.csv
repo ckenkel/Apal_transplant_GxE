@@ -1,0 +1,142 @@
+SampleID,Genotype,SiteGeno,Type ,Sites,Timepoint,TimepointNum,T0_betadivGrp,SiteTopBtm
+13-X5.1,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.13,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.14,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.17,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.19,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.20,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.22,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.27,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.30,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.4,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.5,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X5.9,13-X5,Raceway13-X5,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X7.10,13-X7,Raceway13-X7,Nursery,Raceway,T0,0,A_X7,NA
+13-X7.13,13-X7,Raceway13-X7,Nursery,Raceway,T0,0,A_X7,NA
+13-X7.18,13-X7,Raceway13-X7,Nursery,Raceway,T0,0,A_X7,NA
+13-X7.19,13-X7,Raceway13-X7,Nursery,Raceway,T0,0,A_X7,NA
+13-X7.21,13-X7,Raceway13-X7,Nursery,Raceway,T0,0,A_X7,NA
+13-X7.28,13-X7,Raceway13-X7,Nursery,Raceway,T0,0,A_X7,NA
+13-X7.3,13-X7,Raceway13-X7,Nursery,Raceway,T0,0,A_X7,NA
+13-X7.30,13-X7,Raceway13-X7,Nursery,Raceway,T0,0,A_X7,NA
+13-X7.5,13-X7,Raceway13-X7,Nursery,Raceway,T0,0,A_X7,NA
+13-X7.6,13-X7,Raceway13-X7,Nursery,Raceway,T0,0,A_X7,NA
+13-X9.15,13-X9,Raceway13-X9,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X9.17,13-X9,Raceway13-X9,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X9.18,13-X9,Raceway13-X9,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X9.23,13-X9,Raceway13-X9,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X9.27,13-X9,Raceway13-X9,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X9.28,13-X9,Raceway13-X9,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X9.29,13-X9,Raceway13-X9,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X9.5,13-X9,Raceway13-X9,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X9.6,13-X9,Raceway13-X9,Nursery,Raceway,T0,0,A_X5X9,NA
+13-X9.8,13-X9,Raceway13-X9,Nursery,Raceway,T0,0,A_X5X9,NA
+13-XK.12,13-XK,Raceway13-XK,Nursery,Raceway,T0,0,C_XK145,NA
+13-XK.14,13-XK,Raceway13-XK,Nursery,Raceway,T0,0,C_XK145,NA
+13-XK.15,13-XK,Raceway13-XK,Nursery,Raceway,T0,0,C_XK145,NA
+13-XK.16,13-XK,Raceway13-XK,Nursery,Raceway,T0,0,C_XK145,NA
+13-XK.17,13-XK,Raceway13-XK,Nursery,Raceway,T0,0,C_XK145,NA
+13-XK.2,13-XK,Raceway13-XK,Nursery,Raceway,T0,0,C_XK145,NA
+13-XK.5,13-XK,Raceway13-XK,Nursery,Raceway,T0,0,C_XK145,NA
+13-XK.6,13-XK,Raceway13-XK,Nursery,Raceway,T0,0,C_XK145,NA
+13-XK.7,13-XK,Raceway13-XK,Nursery,Raceway,T0,0,C_XK145,NA
+13-XK.8,13-XK,Raceway13-XK,Nursery,Raceway,T0,0,C_XK145,NA
+14-5.10,14-5,Raceway14-5,Nursery,Raceway,T0,0,C_XK145,NA
+14-5.16,14-5,Raceway14-5,Nursery,Raceway,T0,0,C_XK145,NA
+14-5.19,14-5,Raceway14-5,Nursery,Raceway,T0,0,C_XK145,NA
+14-5.2,14-5,Raceway14-5,Nursery,Raceway,T0,0,C_XK145,NA
+14-5.20,14-5,Raceway14-5,Nursery,Raceway,T0,0,C_XK145,NA
+14-5.26,14-5,Raceway14-5,Nursery,Raceway,T0,0,C_XK145,NA
+14-5.30,14-5,Raceway14-5,Nursery,Raceway,T0,0,C_XK145,NA
+14-5.4,14-5,Raceway14-5,Nursery,Raceway,T0,0,C_XK145,NA
+14-5.6,14-5,Raceway14-5,Nursery,Raceway,T0,0,C_XK145,NA
+14-5.9,14-5,Raceway14-5,Nursery,Raceway,T0,0,C_XK145,NA
+BP31,14-5,BP14-5,Out Plant,Big Pine,T24,24,NA,NA
+BP41,13-X7,BP13-X7,Out Plant,Big Pine,T24,24,NA,NA
+BP43,13-X9,BP13-X9,Out Plant,Big Pine,T24,24,NA,NA
+BP44,13-XK,BP13-XK,Out Plant,Big Pine,T24,24,NA,NA
+BP45,14-5,BP14-5,Out Plant,Big Pine,T24,24,NA,NA
+DL31,13-X7,DL13-X7,Out Plant,Daves Ledge,T24,24,NA,NA
+DL32,13-X5,DL13-X5,Out Plant,Daves Ledge,T24,24,NA,NA
+DL33,13-X9,DL13-X9,Out Plant,Daves Ledge,T24,24,NA,NA
+DL34,13-XK,DL13-XK,Out Plant,Daves Ledge,T24,24,NA,NA
+DL35,14-5,DL14-5,Out Plant,Daves Ledge,T24,24,NA,NA
+DL36,13-X7,DL13-X7,Out Plant,Daves Ledge,T24,24,NA,NA
+DL37,13-X5,DL13-X5,Out Plant,Daves Ledge,T24,24,NA,NA
+DL38,13-X9,DL13-X9,Out Plant,Daves Ledge,T24,24,NA,NA
+DL40,14-5,DL14-5,Out Plant,Daves Ledge,T24,24,NA,NA
+DL41,13-X7,DL13-X7,Out Plant,Daves Ledge,T24,24,NA,NA
+DL42,13-X5,DL13-X5,Out Plant,Daves Ledge,T24,24,NA,NA
+DL43,13-X9,DL13-X9,Out Plant,Daves Ledge,T24,24,NA,NA
+DL44,13-XK,DL13-XK,Out Plant,Daves Ledge,T24,24,NA,NA
+DL45,14-5,DL14-5,Out Plant,Daves Ledge,T24,24,NA,NA
+EDR31,13-X7,EDR13-X7,Out Plant,Eastern Dry Rocks,T24,24,NA,Btm
+EDR33,13-X9,EDR13-X9,Out Plant,Eastern Dry Rocks,T24,24,NA,Btm
+EDR34,13-XK,EDR13-XK,Out Plant,Eastern Dry Rocks,T24,24,NA,Btm
+EDR36,13-X7,EDR13-X7,Out Plant,Eastern Dry Rocks,T24,24,NA,Btm
+EDR37,13-X5,EDR13-X5,Out Plant,Eastern Dry Rocks,T24,24,NA,Btm
+EDR38,13-X9,EDR13-X9,Out Plant,Eastern Dry Rocks,T24,24,NA,Btm
+EDR39,13-XK,EDR13-XK,Out Plant,Eastern Dry Rocks,T24,24,NA,Btm
+EDR40,14-5,EDR14-5,Out Plant,Eastern Dry Rocks,T24,24,NA,Btm
+EDR41,13-X7,EDR13-X7,Out Plant,Eastern Dry Rocks,T24,24,NA,Btm
+EDR45,14-5,EDR14-5,Out Plant,Eastern Dry Rocks,T24,24,NA,Btm
+ES31,13-X7,ES13-X7,Out Plant,E.Sambo,T24,24,NA,Top
+ES32,13-X5,ES13-X5,Out Plant,E.Sambo,T24,24,NA,Top
+ES34,13-XK,ES13-XK,Out Plant,E.Sambo,T24,24,NA,Top
+ES35,14-5,ES14-5,Out Plant,E.Sambo,T24,24,NA,Top
+ES36,13-X7,ES13-X7,Out Plant,E.Sambo,T24,24,NA,Top
+ES37,13-X5,ES13-X5,Out Plant,E.Sambo,T24,24,NA,Top
+ES38,13-X9,ES13-X9,Out Plant,E.Sambo,T24,24,NA,Top
+ES39,13-XK,ES13-XK,Out Plant,E.Sambo,T24,24,NA,Top
+ES40,14-5,ES14-5,Out Plant,E.Sambo,T24,24,NA,Top
+ES41,13-X7,ES13-X7,Out Plant,E.Sambo,T24,24,NA,Top
+ES42,13-X5,ES13-X5,Out Plant,E.Sambo,T24,24,NA,Top
+ES43,13-X9,ES13-X9,Out Plant,E.Sambo,T24,24,NA,Top
+ES44,13-XK,ES13-XK,Out Plant,E.Sambo,T24,24,NA,Top
+ES45,14-5,ES14-5,Out Plant,E.Sambo,T24,24,NA,Top
+LK31,13-X7,LK13-X7,Out Plant,Looe Key,T24,24,NA,Btm
+LK32,13-X5,LK13-X5,Out Plant,Looe Key,T24,24,NA,Btm
+LK33,13-X9,LK13-X9,Out Plant,Looe Key,T24,24,NA,Btm
+LK34,13-XK,LK13-XK,Out Plant,Looe Key,T24,24,NA,Btm
+LK35,14-5,LK14-5,Out Plant,Looe Key,T24,24,NA,Btm
+LK36,14-5,LK14-5,Out Plant,Looe Key,T24,24,NA,Btm
+LK38,13-X5,LK13-X5,Out Plant,Looe Key,T24,24,NA,Btm
+LK39,13-X9,LK13-X9,Out Plant,Looe Key,T24,24,NA,Btm
+LK40,13-XK,LK13-XK,Out Plant,Looe Key,T24,24,NA,Btm
+LK41,13-XK,LK13-XK,Out Plant,Looe Key,T24,24,NA,Btm
+LK42,13-X5,LK13-X5,Out Plant,Looe Key,T24,24,NA,Btm
+LK43,13-X9,LK13-X9,Out Plant,Looe Key,T24,24,NA,Btm
+LK44,14-5,LK14-5,Out Plant,Looe Key,T24,24,NA,Btm
+M32.31,13-X7,M3213-X7,Out Plant,Marker 32,T24,24,NA,Top
+M32.32,13-X5,M3213-X5,Out Plant,Marker 32,T24,24,NA,Top
+M32.39,13-XK,M3213-XK,Out Plant,Marker 32,T24,24,NA,Top
+M32.40,14-5,M3214-5,Out Plant,Marker 32,T24,24,NA,Top
+M32.41,13-X7,M3213-X7,Out Plant,Marker 32,T24,24,NA,Top
+M32.42,13-X5,M3213-X5,Out Plant,Marker 32,T24,24,NA,Top
+M32.43,13-X9,M3213-X9,Out Plant,Marker 32,T24,24,NA,Top
+M32.45,14-5,M3214-5,Out Plant,Marker 32,T24,24,NA,Top
+MS29,13-X7,MS13-X7,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS32,13-X5,MS13-X5,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS35,14-5,MS14-5,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS37,13-X5,MS13-X5,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS38,13-X9,MS13-X9,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS39,13-XK,MS13-XK,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS40,14-5,MS14-5,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS41,13-X7,MS13-X7,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS42,13-X5,MS13-X5,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS43,13-X9,MS13-X9,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS44,13-XK,MS13-XK,Out Plant,Maryland Shoals,T24,24,NA,Btm
+MS45,14-5,MS14-5,Out Plant,Maryland Shoals,T24,24,NA,Btm
+WS31,13-X7,WS13-X7,Out Plant,W. Sambo,T24,24,NA,Top
+WS32,13-X5,WS13-X5,Out Plant,W. Sambo,T24,24,NA,Top
+WS33,13-X9,WS13-X9,Out Plant,W. Sambo,T24,24,NA,Top
+WS34,13-XK,WS13-XK,Out Plant,W. Sambo,T24,24,NA,Top
+WS35,14-5,WS14-5,Out Plant,W. Sambo,T24,24,NA,Top
+WS36,13-X5,WS13-X5,Out Plant,W. Sambo,T24,24,NA,Top
+WS37,13-X9,WS13-X9,Out Plant,W. Sambo,T24,24,NA,Top
+WS38,13-XK,WS13-XK,Out Plant,W. Sambo,T24,24,NA,Top
+WS39,14-5,WS14-5,Out Plant,W. Sambo,T24,24,NA,Top
+WS40,13-X7,WS13-X7,Out Plant,W. Sambo,T24,24,NA,Top
+WS42,13-X5,WS13-X5,Out Plant,W. Sambo,T24,24,NA,Top
+WS44,13-XK,WS13-XK,Out Plant,W. Sambo,T24,24,NA,Top
+WS45,14-5,WS14-5,Out Plant,W. Sambo,T24,24,NA,Top
